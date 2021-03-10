@@ -6,6 +6,8 @@
 ![Tools & Technologies](https://img.shields.io/badge/Python-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![Tools & Technologies](https://img.shields.io/badge/HTML-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![Tools & Technologies](https://img.shields.io/badge/JS-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![Tools & Technologies](https://img.shields.io/badge/PCA-DataVisualization-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 My GitHub is my GitHub,none of your GitHub
 
