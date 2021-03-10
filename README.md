@@ -7,7 +7,7 @@
 ![Tools & Technologies](https://img.shields.io/badge/HTML-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![Tools & Technologies](https://img.shields.io/badge/JS-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-Let's play the imitation game.
+My GitHub is my GitHub,none of your GitHub
 
 <!--
 **Enish258/Enish258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
